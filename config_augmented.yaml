@@ -1,0 +1,9 @@
+# Data directories
+train: /content/gdrive/MyDrive/Projects/breast_detection_2d/dataset_augmented/train/images  # train images (relative to 'path') 128 images
+val: /content/gdrive/MyDrive/Projects/breast_detection_2d/dataset_augmented/train/images  # val images (relative to 'path') 128 images
+test:  # test images (optional)
+
+# Classes
+nc: 1  # number of classes
+names: [ 'breast' ]  # class names
+

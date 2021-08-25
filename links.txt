@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=2nR2e4J4ZaI
+
+https://www.youtube.com/watch?v=R1Bf067Z5uM
+
+https://github.com/karndeepsingh/YOLO-V5-TRAINING/blob/main/TRAIN_YOLO_V5_ON_YOUR_CUSTOM_DATASET.ipynb
+
+https://colab.research.google.com/drive/1gDZ2xcTOgR39tGGs-EZ6i3RTs16wmzZQ#scrollTo=9nmZZnWOgJ2S
+
+roboflow augmentation
